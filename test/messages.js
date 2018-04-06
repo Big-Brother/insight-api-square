@@ -4,7 +4,7 @@ var should = require('should');
 var sinon = require('sinon');
 var MessagesController = require('../lib/messages');
 var bitcore = require('bitcore-lib-square');
-var _ = require('l*o*d*a*s*h');
+var _ = require('lodash');
 
 describe('Messages', function() {
 

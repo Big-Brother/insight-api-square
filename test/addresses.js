@@ -2,7 +2,7 @@
 var sinon = require('sinon');
 var should = require('should');
 var AddressController = require('../lib/addresses');
-var _ = require('l*o*d*a*s*h');
+var _ = require('lodash');
 var bitcore = require('bitcore-lib-square');
 
 var txinfos = {

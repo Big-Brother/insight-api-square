@@ -3,7 +3,7 @@ var should = require('should');
 var sinon = require('sinon');
 var bitcore = require('bitcore-lib-square');
 var TxController = require('../lib/transactions');
-var _ = require('l*o*d*a*s*h');
+var _ = require('lodash');
 
 describe('Transactions', function() {
   describe('/tx/:txid', function() {
